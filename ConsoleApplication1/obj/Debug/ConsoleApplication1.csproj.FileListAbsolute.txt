@@ -1,0 +1,16 @@
+C:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\molkomTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\molkomTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\molkomTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\molkomTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\molkomTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\molkomTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
